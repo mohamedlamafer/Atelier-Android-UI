@@ -1,4 +1,4 @@
-# 🧮 Application Calculatrice
+#  Application Calculatrice
 
 ## 👤 Étudiant
 - **Nom :** Mohamed Lamafer  
@@ -6,7 +6,7 @@
 
 ---
 
-## 📱 Description
+##  Description
 Cette application Android est une **calculatrice complète** développée avec **Kotlin**.  
 Elle permet d'effectuer les opérations suivantes :
 - ➕ Addition  
@@ -18,17 +18,17 @@ Chaque opération est enregistrée dans un **historique** visible directement da
 
 ---
 
-## ⚙️ Fonctionnalités
-- ✅ Interface réalisée avec **LinearLayout**
-- ✅ Gestion complète des boutons en **Kotlin**
-- ✅ Validation des entrées (empêche les champs vides)
-- ✅ Gestion d’erreur pour la division par zéro
-- ✅ Affichage dynamique du **résultat** et de l’**historique**
-- ✅ Design clair et lisible
+##  Fonctionnalités
+-  Interface réalisée avec **LinearLayout**
+-  Gestion complète des boutons en **Kotlin**
+-  Validation des entrées (empêche les champs vides)
+-  Gestion d’erreur pour la division par zéro
+-  Affichage dynamique du **résultat** et de l’**historique**
+-  Design clair et lisible
 
 ---
 
-## 🧠 Exemple d'utilisation
+##  Exemple d'utilisation
 1. Entrer deux nombres  
 2. Appuyer sur le bouton de l’opération voulue  
 3. Le résultat s’affiche immédiatement  
@@ -39,10 +39,10 @@ Exemple d’historique :
 8 × 2 = 16
 16 ÷ 4 = 4
 
-## 🖼 Captures d'écran
+##  Captures d'écran
 ![Calculatrice](screenshots/calculatrice.png)
 
-## 📚 Ce que j'ai appris
+##  Ce que j'ai appris
 - Créer des interfaces Android avec **LinearLayout**  
 - Utiliser des `EditText`, `TextView` et `Button`  
 - Gérer les clics avec `setOnClickListener`  
