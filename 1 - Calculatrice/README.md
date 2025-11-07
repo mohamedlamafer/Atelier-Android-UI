@@ -40,7 +40,7 @@ Exemple d’historique :
 16 ÷ 4 = 4
 
 ##  Captures d'écran
-![Calculatrice](screenshots/calculatrice.jpg)
+![Calculatrice](screenshot/calculatrice.jpg)
 
 ##  Ce que j'ai appris
 - Créer des interfaces Android avec **LinearLayout**  
