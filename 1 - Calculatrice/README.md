@@ -50,7 +50,7 @@ Exemple d’historique :
 - Mettre à jour dynamiquement un historique d’opérations  
 
 
-## 💡 Difficultés rencontrées
+##  Difficultés rencontrées
 - **Centrage du contenu** → corrigé avec `android:gravity="center"`  
 - **Division par zéro** → ajout d’un contrôle avant le calcul  
 - **Affichage de l’historique** → résolu avec une `MutableList` et `joinToString()`  
